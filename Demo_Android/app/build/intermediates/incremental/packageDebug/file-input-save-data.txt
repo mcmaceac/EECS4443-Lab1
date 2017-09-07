@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Aug 21 16:44:20 EDT 2017
+2.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87ef0e53c93fdc9a49bdbaed7f3792f02e24adb0\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87ef0e53c93fdc9a49bdbaed7f3792f02e24adb0
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c53350d8a9d13bd71d958379a702c2e8c15837a5\\classes.dex
+1.set=DEX
+2.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c53350d8a9d13bd71d958379a702c2e8c15837a5
+4.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

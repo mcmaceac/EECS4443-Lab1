@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 49,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 43,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 43,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 47,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 47,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 37,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 37,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 47,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 47,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 67,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 67,
+                        "endOffset": 118
+                    }
+                }
+            }
+        ]
+    }
+]
