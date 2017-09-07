@@ -1,0 +1,7 @@
+#Thu Sep 07 13:07:58 EDT 2017
+base.0=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5eaf9b4a93e0064705ba2580c29350833baefc59
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f41f38f3c44d9338e3381c394db4375ee1dafcef/classes.dex
+base.1=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f41f38f3c44d9338e3381c394db4375ee1dafcef
+file.0=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5eaf9b4a93e0064705ba2580c29350833baefc59/classes.dex

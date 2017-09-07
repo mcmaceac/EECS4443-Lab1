@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 43,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 47,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 37,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 47,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 67,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 39,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 39,
+                        "endOffset": 370
+                    }
+                }
+            }
+        ]
+    }
+]

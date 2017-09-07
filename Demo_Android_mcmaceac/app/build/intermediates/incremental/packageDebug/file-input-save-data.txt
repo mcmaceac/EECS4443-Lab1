@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu Sep 07 13:07:58 EDT 2017
+2.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_
+5.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f41f38f3c44d9338e3381c394db4375ee1dafcef
+count=6
+0.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+5.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+1.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5eaf9b4a93e0064705ba2580c29350833baefc59/classes.dex
+1.set=DEX
+2.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_
+3.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5eaf9b4a93e0064705ba2580c29350833baefc59
+4.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f41f38f3c44d9338e3381c394db4375ee1dafcef/classes.dex
+0.set=ANDROID_RESOURCE

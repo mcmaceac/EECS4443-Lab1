@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/src/debug/jniLibs"/></dataSet></merger>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f30d7a1affd8f591c31e9f74df5c3334fb14e7b">
+        <dex dex="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e6e897e209c9e52db254c94ae098cfd9973eb29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0060867a83cbbe2efc735d91168d50c600f1a05e">
+        <dex dex="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5eaf9b4a93e0064705ba2580c29350833baefc59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_68e3f259bbda3d170a4e832ae474bc38068c7979/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f41f38f3c44d9338e3381c394db4375ee1dafcef/classes.dex" />
+    </item>
+
+</items>

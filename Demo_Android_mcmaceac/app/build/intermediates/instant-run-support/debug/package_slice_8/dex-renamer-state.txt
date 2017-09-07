@@ -1,0 +1,4 @@
+#Thu Sep 07 12:47:39 EDT 2017
+base.0=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

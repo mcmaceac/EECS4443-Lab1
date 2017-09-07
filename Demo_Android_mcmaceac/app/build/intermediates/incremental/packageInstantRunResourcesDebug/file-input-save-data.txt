@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Sep 07 13:07:57 EDT 2017
+1.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_
+1.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+2.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_
+3.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.file=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android_mcmaceac/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png

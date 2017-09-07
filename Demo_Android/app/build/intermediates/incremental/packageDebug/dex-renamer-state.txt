@@ -1,7 +1,7 @@
-#Mon Aug 21 16:44:20 EDT 2017
-base.0=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c53350d8a9d13bd71d958379a702c2e8c15837a5
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87ef0e53c93fdc9a49bdbaed7f3792f02e24adb0\\classes.dex
-base.1=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_87ef0e53c93fdc9a49bdbaed7f3792f02e24adb0
-file.0=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\Demo_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c53350d8a9d13bd71d958379a702c2e8c15837a5\\classes.dex
+#Thu Sep 07 12:13:03 EDT 2017
+base.0=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e6e897e209c9e52db254c94ae098cfd9973eb29
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_68e3f259bbda3d170a4e832ae474bc38068c7979/classes.dex
+base.1=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_68e3f259bbda3d170a4e832ae474bc38068c7979
+file.0=/eecs/home/mcmaceac/4443/Labs/lab1/Demo_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e6e897e209c9e52db254c94ae098cfd9973eb29/classes.dex
